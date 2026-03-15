@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2979FF</color> <color name="colorPrimaryDark">#101216</color> <color name="colorAccent">#34C759</color>
+    
+    <color name="colorBackground">#000000</color> <color name="colorSurface">#0F1115</color>    <color name="colorTextPrimary">#007AFF</color>
+    <color name="colorTextSecondary">#8E8E93</color>
+    
+    <color name="colorPing">#00E676</color>
+    <color name="colorPingRed">#FF1744</color>
+    <color name="colorConfigType">#2979FF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="color_fab_active">#2979FF</color>
+    <color name="color_fab_inactive">#454950</color>
+    <color name="divider_color_light">#00000000</color> <color name="colorIndicator">#2979FF</color>
+
+    <color name="md_theme_primary">#2979FF</color>
+    <color name="md_theme_onPrimary">#FFFFFF</color>
+    <color name="md_theme_primaryContainer">#1E2329</color>
+    <color name="md_theme_onPrimaryContainer">#FFFFFF</color>
+    <color name="md_theme_secondary">#2979FF</color>
+    <color name="md_theme_background">#101216</color>
+    <color name="md_theme_surface">#1E2329</color>
+    <color name="md_theme_onSurface">#FFFFFF</color>
+</resources>
