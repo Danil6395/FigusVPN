@@ -2,7 +2,7 @@
 
 #profile-update-interval: 1
 
-#subscription-userinfo: upload=0; download=0; total=0; expire=1783209599
+#subscription-userinfo: upload=0; download=0; total=0; expire=9999999999999
 
 #announce: ✅ Подписка активна — осталось 34 дн. | ⚠️ Сервера снизу предназначены для обхода глушилок — используйте их только когда глушат мобильный интернет❗
 
